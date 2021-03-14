@@ -7,7 +7,7 @@ test which ip of url will response fastest
 Install:
 
 ```shell
-go get -u github.com/go-redis/redis
+go get -u github.com/iiibui/which-ip-fastest
 ```
 
 ## Usage
